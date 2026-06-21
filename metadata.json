@@ -1,0 +1,6 @@
+{
+  "name": "Gmail Cleaner",
+  "description": "An intelligent Gmail organizer to find, categorize, and clean up newsletters, promotions, and unnecessary emails with Gemini AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
